@@ -159,8 +159,3 @@
 </table>
 <br/>
 
-<div align="center" >
-  <a  align="center" href="https://github.com/toptalentdev" title="Go to Source">
-    <img width=50% style="text-align: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=toptalentdev&theme=react&border=61dafb&hide_border=true" alt="toptalentdev" />
-  </a>
-</div>
