@@ -158,19 +158,3 @@
   </tr>
 </table>
 <br/>
-
-<div align="center" >
-  <a  align="center" href="https://github.com/toptalentdev" title="Go to Source">
-    <img width=50% style="text-align: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=toptalentdev&theme=react&border=61dafb&hide_border=true" alt="toptalentdev" />
-  </a>
-</div>
-<h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=TopTalentDev&show_icons=true&theme=gotham&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopTalentDev&layout=compact&theme=gotham&count_private=true" /> 
-<img height="150px" />
-<br/>  
-
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=toptalentdev&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
-<br>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=toptalentdev&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11)
